@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834055690379",
+    "project_id": "stock-management-system-781bd",
+    "storage_bucket": "stock-management-system-781bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834055690379:android:5662650cb4c94fc75ddc8e",
+        "android_client_info": {
+          "package_name": "com.example.stock_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834055690379-63ummh9e25fb3ar5tls5v7takduqifc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-KhaZbd77D7l-VcAZEn0DThJQvY1u9kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834055690379-63ummh9e25fb3ar5tls5v7takduqifc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
